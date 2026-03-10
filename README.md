@@ -3,7 +3,7 @@
 A Dockerized QR Code Generator application built with Python.
 
 ## DockerHub Image
-https://hub.docker.com/r/kushyarwar/qr-code-generator-app
+https://hub.docker.com/r/kushyarwar/qr-code-generator-app/general
 
 ## How to Run
 
